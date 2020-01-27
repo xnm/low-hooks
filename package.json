@@ -1,0 +1,32 @@
+{
+  "name": "low-hooks",
+  "version": "0.0.1",
+  "description": "Low level react hooks lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xnm/low-hooks.git"
+  },
+  "keywords": [
+    "hooks",
+    "react"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xnm/low-hooks/issues"
+  },
+  "homepage": "https://github.com/xnm/low-hooks#readme",
+  "devDependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "ts-loader": "^6.2.1",
+    "tslint": "^6.0.0",
+    "tslint-eslint-rules": "^5.4.0",
+    "tslint-react": "^4.2.0",
+    "typescript": "^3.7.5"
+  }
+}
