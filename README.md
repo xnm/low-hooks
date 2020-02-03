@@ -27,6 +27,7 @@
 - useScroll
 - useSize
 - useMouse
+- useMousePosition
 - useHover
 
 ### useAnimate
